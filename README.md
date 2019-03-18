@@ -1,2 +1,2 @@
 # ChatYoXMPP-Android
-This is chat app using XMPP server and aSmack
+This is chat app using XMPP server and Smack
