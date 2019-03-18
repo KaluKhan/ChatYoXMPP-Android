@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialogLin"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="@string/info"
+        android:textColor="@android:color/black"
+        android:textSize="18sp" />
+    <EditText
+        android:id="@+id/fJabberEt"
+        android:layout_width="match_parent"
+        android:gravity="top|start"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:background="@color/grey_text"
+        android:hint="@string/enter_jabber"
+        android:inputType="text"
+        android:padding="10dp" />
+
+    <EditText
+            android:id="@+id/fNameEt"
+            android:layout_width="match_parent"
+            android:gravity="top|start"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:background="@color/grey_text"
+            android:hint="@string/friendName"
+            android:inputType="text"
+            android:padding="10dp" />
+    <Button
+        android:id="@+id/sendBtn"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="@color/grey_text"
+        android:gravity="center"
+        android:text="@string/send_message"
+        android:textColor="@android:color/white"
+        android:textSize="18sp" />
+    <!--  android:background="@drawable/shape_login_bt"-->
+</LinearLayout>
+

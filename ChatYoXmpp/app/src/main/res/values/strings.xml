@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatYoXmpp</string>
+    <string name="login">Login with name, host, full jabber id &amp; password.</string>
+    <string name="name">Name</string>
+    <string name="password">Password*</string>
+    <string name="host">Host*</string>
+    <string name="jabber_id">Jabber Id</string>
+    <string name="login_register">Login</string>
+    <string name="close">Close</string>
+    <string name="errorNameEmpty">Name field is empty!</string>
+    <string name="errorHostEmpty">Host field is empty!</string>
+    <string name="errorJabberIdEmpty">Jabber id is empty!</string>
+    <string name="errorPasswordEmpty">Password is empty!</string>
+    <string name="send_message">Send Message</string>
+    <string name="chat_list">Chat List</string>
+    <string name="error_message_empty">Message text is empty!</string>
+    <string name="logout">Logout</string>
+    <string name="just_now">Just Now</string>
+    <string name="time_ago">%s ago</string>
+    <string name="yesterday">yesterday</string>
+    <string name="server">xmpp.jp</string>
+    <string name="enter_jabber">Enter friend\'s jabber id</string>
+    <string name="friendName">Receiver\'s Name</string>
+    <string name="info">Please enter other user\'s jabber id to start chat(who is registered on same server).</string>
+</resources>
