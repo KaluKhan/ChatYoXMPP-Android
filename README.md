@@ -23,4 +23,4 @@ The purpose of the app is to help new developers to integrate XMPP based messagi
 
 ![alt text](https://github.com/KaluKhan/ChatYoXMPP-Android/blob/master/ChatYoXmpp/device-2019-03-18-182023.png)
 ![alt text](https://github.com/KaluKhan/ChatYoXMPP-Android/blob/master/ChatYoXmpp/device-2019-03-18-174521.png)
-![alt text](https://github.com/KaluKhan/ChatYoXMPP-Android/blob/master/ChatYoXmpp/device-2019-03-18-174704.png)
+![alt text](https://github.com/KaluKhan/ChatYoXMPP-Android/blob/master/ChatYoXmpp/Screenshot_20190319-160337.png)
