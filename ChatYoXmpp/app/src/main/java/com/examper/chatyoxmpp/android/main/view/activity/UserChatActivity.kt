@@ -12,7 +12,6 @@ import android.view.MenuItem
 import android.view.View
 import android.widget.Button
 import android.widget.LinearLayout
-import android.widget.ListView
 import android.widget.Toast
 import com.examper.chatyoxmpp.android.main.ChatScreenListener
 import com.examper.chatyoxmpp.android.main.ChatYoApplication
@@ -22,7 +21,6 @@ import com.examper.chatyoxmpp.android.main.presenter.ChatPresenter
 import com.examper.chatyoxmpp.android.main.utils.ConnectionDetector
 import com.examper.chatyoxmpp.android.main.view.adapter.UserChatWindowAdapter
 import kotlinx.android.synthetic.main.activity_chat.*
-import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.tool_bar.*
 
 /***@UserChatActivity is chat screen with other user(here mentioning as 'friend') */
