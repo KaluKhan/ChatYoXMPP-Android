@@ -1,6 +1,6 @@
 # ChatYoXMPP-Android
 **Description:**
-'ChatYoXMPP' is instant chat messaging app using XMPP(openfire). XMPP(Extensible Messaging and Presence Protocole) (https://xmpp.org/about/) is a communications protocol for real-time comunications oriented middleware based on XML. I am using MVP architecture pattern for code in Android app. The user need to be pre-registed on server. App allows to login with host, jabberId(without suffix of hostname) and password.
+'ChatYoXMPP' is instant chat messaging app using XMPP(openfire). [XMPP](https://xmpp.org/about/)(Extensible Messaging and Presence Protocole) is a communications protocol for real-time comunications oriented middleware based on XML. I am using MVP architecture pattern for code in Android app. The user need to be pre-registed on server. App allows to login with host, jabberId(without suffix of hostname) and password.
 'ChatYoXMPP' currently only trasfers text messages. In future more features will be added like- user-registration, media trasfer and group chat. 
 
 
